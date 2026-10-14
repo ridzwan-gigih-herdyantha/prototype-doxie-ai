@@ -35,6 +35,7 @@ const TABS: Tab[] = [
   "shipped",
   "delivered",
   "cancelled",
+  "returned",
 ];
 
 /**
